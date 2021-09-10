@@ -25,7 +25,7 @@ const Portfolio = () => {
       description:
         'Fully responsive interactive website built based on Figma design',
       technologies: 'JavaScript | CSS | Angular',
-      link: 'https://sportsbiz.com',
+      link: 'https://www.sportsbiz.com',
       github: '#',
     },
     {
