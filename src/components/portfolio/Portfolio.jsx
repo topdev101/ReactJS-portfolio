@@ -33,7 +33,7 @@ const Portfolio = () => {
       title: 'E-Commerce',
       img: IMG6,
       description:
-        'E-Commerce Websites',
+        'E-Commerce',
       technologies: 'JavaScript | React | CSS',
       link: 'https://demo.evershop.io/',
       github: '#',
